@@ -31,7 +31,7 @@
       dark
     >
       <div class="flex-grow-1"></div>
-      <v-toolbar-title>Parker Goodwin's First Vue App</v-toolbar-title>
+      <v-toolbar-title>Parker Goodwin's First Netlify App!</v-toolbar-title>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
     </v-app-bar>
 
