@@ -85,7 +85,7 @@
       app
     >
       <div class="flex-grow-1"></div>
-      <span class="white--text">&copy; 2019</span>
+      <span class="white--text">&copy;Parker Goodwin Creative, LLC 2019</span>
     </v-footer>
   </v-app>
 </template>
