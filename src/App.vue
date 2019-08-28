@@ -72,7 +72,7 @@
                   <v-icon large>mdi-codepen</v-icon>
                 </v-btn>
               </template>
-              <span>I love to code!
+              <span>This is the best app ever!
               </span>
             </v-tooltip>
           </v-col>
